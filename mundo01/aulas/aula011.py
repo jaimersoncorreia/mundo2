@@ -1,0 +1,7 @@
+print('Os valores são \033[32m{}\033[m e \033[31m{}\033[m !!!'.format(3,5))
+print('\033[0;30;41mTESTE\033[m')
+print('\033[4;33;44mTESTE')
+print('\033[1;35;43mTESTE')
+print('\033[30;42mTESTE')
+print('\033[mTESTE')
+print('\033[7;30mTESTE')
